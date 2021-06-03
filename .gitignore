@@ -1,0 +1,10 @@
+# ignore python generated files
+*.pyc
+__pycache__
+db.sqlite3
+
+# ignore log files
+*.log
+
+# ignore database
+db.sqlite3
